@@ -18,7 +18,7 @@ Due to healthcare PHI regulations (HIPAA, HITECH), there are limited number of p
 
 The final model achieved an F1 score of 0.54 and a ROC-AUC of 0.5.
 
-In the fairness analysis of the dataset, there appears to be signficant disparity with the Asian race being under-represented with a magnitude of 0.19.
+In the fairness analysis of the model predictions, there appears to be signficant disparity with the Asian race being under-represented with a magnitude of 0.19.
 
 #### Fairness Analysis - Relative to a Reference Group
 ![title](img/fairness.png)
