@@ -12,7 +12,7 @@ Due to healthcare PHI regulations (HIPAA, HITECH), there are limited number of p
 
 ## Key files
 
-- [Notebook for data analysis and model development](https://github.com/pranath/patient_select_diabetes/blob/master/patient_select_diabetes.ipynb)
+- [Notebook for data analysis and model development](https://github.com/pranath/patient_select_diabetes/blob/master/patient_select_diabetes/patient_select_diabetes.md)
 
 ## Results
 
